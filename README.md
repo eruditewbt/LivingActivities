@@ -31,4 +31,5 @@ Learners, independent builders, and teams coordinating shared work.
 ## Explore
 
 - [Official project repository](https://github.com/eruditewbt/LivingActivities)
+- [Open product](https://task-master-d0262.web.app/)
 - [EruditeWBT](https://github.com/eruditewbt/eruditewbt)
