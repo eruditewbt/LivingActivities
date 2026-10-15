@@ -1,44 +1,33 @@
-# LivingActivities
+![EruditeWBT brand mark](brand.svg)
 
 # Task Manager
 
-**Brand:** EruditeWBT  
-**Department:** Learning Products  
-**Status:** `source-present-feature-and-deployment-review-needed`
+> Turn intentions into steady progress.
 
-## Overview
+## The Opportunity
 
-A Flutter task-management application in the EruditeWBT workspace. The source has a ConnectWBT SDK dependency; product behavior and deployment are not yet documented.
+A task and activity experience for organizing commitments, tracking progress, and making learning or project work easier to sustain.
 
-## Who It Is For
+## Who It Serves
 
-Learners and teams who need a practical task workflow.
+Learners, independent builders, and teams coordinating shared work.
 
-## Capabilities
+## What It Makes Possible
 
-- Flutter application with calendar, charting, notifications, and navigation dependencies
-- ConnectWBT Dart SDK dependency is configured
-- Exact supported task workflows need confirmation in the app screens
+- Organize tasks and ongoing activities
+- Keep learning and project commitments visible
+- Support routines that turn goals into consistent action
 
-## How To Use It
+## How People Use It
 
-1. Install Flutter and resolve package dependencies
-2. Configure the local ConnectWBT SDK dependency for your environment
-3. Run the application and follow the in-app task flow
+1. Capture the next actions that matter.
+2. Organize work into manageable activities.
+3. Review progress and adjust priorities.
 
-For exact installation steps, supported features, account requirements, and troubleshooting, follow the linked source documentation below. Where those links are not available yet, this page marks the gap instead of inventing product behavior.
+## How It Connects
 
-## Links
+- LivingActivities brings task and activity management into the EruditeWBT learning portfolio.
 
-- Canonical repository: Not recorded; verify the canonical repository before publishing.
-- Source project: `app/TaskManager/task_manager`
-- Deployed applications:
-- No verified deployed link is recorded yet.
+## Explore
 
-## Source Documentation
-
-- Source documentation is available in the corresponding project repository.
-
-## Catalog Maintenance
-
-Edit `portfolio_catalog/catalog.json` and run `python tools/build_project_catalog.py` to rebuild this page and its department indexes. Confirm repository ownership, product capabilities, installation steps, and deployment URLs before changing this project's status to `verified`.
+- [Official project repository](https://github.com/eruditewbt/LivingActivities)
