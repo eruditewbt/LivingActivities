@@ -1,12 +1,12 @@
 ![EruditeWBT brand mark](brand.svg)
 
-# Task Manager
+# LivingActivities
 
-> Turn intentions into steady progress.
+> Make everyday progress visible and sustainable.
 
 ## The Opportunity
 
-A task and activity experience for organizing commitments, tracking progress, and making learning or project work easier to sustain.
+LivingActivities is EruditeWBT’s task and activity manager. It helps people keep commitments visible, organize the work behind a goal, and turn plans into consistent action.
 
 ## Who It Serves
 
@@ -14,9 +14,9 @@ Learners, independent builders, and teams coordinating shared work.
 
 ## What It Makes Possible
 
-- Organize tasks and ongoing activities
+- Organize personal tasks and ongoing activities
 - Keep learning and project commitments visible
-- Support routines that turn goals into consistent action
+- Support routines that help people make steady progress
 
 ## How People Use It
 
@@ -26,8 +26,9 @@ Learners, independent builders, and teams coordinating shared work.
 
 ## How It Connects
 
-- LivingActivities brings task and activity management into the EruditeWBT learning portfolio.
+- Supports the wider EruditeWBT journey by helping learners turn courses and goals into everyday action.
 
 ## Explore
 
 - [Official project repository](https://github.com/eruditewbt/LivingActivities)
+- [EruditeWBT](https://github.com/eruditewbt/eruditewbt)
